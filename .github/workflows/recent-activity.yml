@@ -13,13 +13,12 @@ jobs:
       contents: write
 
     steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
       - name: Update Recent Activity
         uses: Readme-Workflows/recent-activity@v2.0.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: Shahoud867
-          MAX_LINES: 5
-          COMMIT_MSG: "⚡ Update recent activity"
-          DISABLE_EVENTS: "member,public"
-
+          GH_USERNAME: Shahoud867
