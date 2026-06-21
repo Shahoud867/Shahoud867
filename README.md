@@ -1,10 +1,7 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    Shahoud867 — GitHub Profile README                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- Shahoud867 — GitHub Profile README -->
 
 <div align="center">
 
-<!-- Typing animation header -->
 <a href="https://github.com/Shahoud867">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=7C91F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shahoud+Shahid;Agentic+AI+%26+Data+Science+Engineer;Multi-Agent+Systems+%7C+LLMs+%7C+PyTorch;Building+AI+that+thinks+and+acts." alt="Typing SVG" />
 </a>
@@ -16,7 +13,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahoud-shahid-502510281)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shahoudshahid652@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shahoud867)
-[![Profile Views](https://komarev.com/ghpvc/?username=Shahoud867&style=flat-square&color=7C91F7&label=Profile+Views)](https://github.com/Shahoud867)
 
 </div>
 
@@ -26,11 +22,9 @@
 
 I'm a Data Science undergraduate building **production-grade agentic AI systems, NLP pipelines, and data engineering infrastructure** — delivered across internships, freelance engagements, and research projects.
 
-My focus is on systems where AI moves beyond prediction into **autonomous decision-making**: multi-agent LLM orchestration, portfolio rebalancing agents, real-time ETL automation, and medical image segmentation. I've shipped end-to-end pipelines for enterprise marketing-tech and healthcare clients, and led engineering teams building AI showcases at FAST-NUCES.
+My focus is on systems where AI moves beyond prediction into **autonomous decision-making**: multi-agent LLM orchestration, portfolio rebalancing agents, real-time ETL automation, and medical image segmentation. I've shipped end-to-end pipelines for enterprise marketing-tech and healthcare clients, and led the engineering team at FAST-NUCES Data Science Society.
 
-Currently deepening my work in **LangGraph agent architectures** and **parallel computing optimizations** for large-scale ML pipelines.
-
-> *"I build AI systems that don't just analyze — they act."*
+Currently deepening expertise in **LangGraph agent architectures** and **parallel computing optimizations** for large-scale ML pipelines.
 
 ---
 
@@ -55,7 +49,7 @@ Currently deepening my work in **LangGraph agent architectures** and **parallel 
 
 **Data Engineering · Cloud**
 
-![Google BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -73,75 +67,57 @@ Currently deepening my work in **LangGraph agent architectures** and **parallel 
 
 ## 🚀 Featured Projects
 
-> Click a project name to view the repository.
-
-| Project | What It Solves | Core Stack |
-|---------|---------------|------------|
-| 🤖 [**PSX Autonomous Investment Platform**](https://github.com/Shahoud867/<!-- REPLACE: repo-name -->) | Real-time stock analysis, portfolio monitoring, and autonomous rebalancing for the Pakistan Stock Exchange — powered by a multi-agent LLM architecture with risk metrics (Sharpe, Drawdown, Beta) | `Python` `LangGraph` `LLMs` `Multi-Agent` |
-| 📈 [**maor-equity — NLP Financial Pipeline**](https://github.com/Shahoud867/<!-- REPLACE: repo-name -->) | 5-stage equity analysis pipeline combining FinBERT sentiment scoring and Phi-3-mini map-reduce summarization across SEC filings; benchmarked serial runtime (~843s) to drive parallelization strategy | `Python` `FinBERT` `Phi-3-mini` `HuggingFace` |
-| 🧬 [**CNN–Transformer Nuclei Segmentation**](https://github.com/Shahoud867/<!-- REPLACE: repo-name -->) | Extended CellViT on PanNuke (~190K nuclei, 19 tissue types); improved mean Panoptic Quality 7.32% → 14.22% (+94%) via backbone fine-tuning & AMP; 83.24% Binary Dice on unseen MoNuSeg dataset | `PyTorch` `CellViT` `ViT-256` `AMP` |
-| 🧠 [**Brain Tumor Segmentation (YOLOv11 + SAM2)**](https://github.com/Shahoud867/<!-- REPLACE: repo-name -->) | Tumor detection and segmentation pipeline on medical MRI images combining YOLOv11 bounding-box detection with SAM2 for precise mask generation | `Python` `YOLOv11` `SAM2` `OpenCV` |
-| 🔍 [**Agentic RAG Research Assistant**](https://github.com/Shahoud867/<!-- REPLACE: repo-name -->) | Multi-agent RAG pipeline with persistent vector memory over 10K+ documents; LangGraph orchestration for adaptive query routing achieving sub-3s retrieval latency | `LangChain` `LangGraph` `ChromaDB` `OpenAI` |
+| Project | What It Solves | Stack |
+|---------|----------------|-------|
+| 🤖 **PSX Autonomous Investment Platform** | Real-time PSX stock analysis, portfolio monitoring, and autonomous rebalancing using a multi-agent LLM architecture with risk metrics (Sharpe, Drawdown, Beta) | `Python` `LangGraph` `LLMs` |
+| 📈 **maor-equity — NLP Financial Pipeline** | 5-stage equity analysis pipeline combining FinBERT sentiment and Phi-3-mini map-reduce summarization; serial baseline benchmarked at ~843s median latency | `Python` `FinBERT` `Phi-3-mini` `HuggingFace` |
+| 🧬 **CNN–Transformer Nuclei Segmentation** | Extended CellViT on PanNuke (~190K nuclei, 19 tissue types); improved mPQ from 7.32% to 14.22% (+94%); validated on MoNuSeg with 83.24% Binary Dice | `PyTorch` `CellViT` `ViT-256` `AMP` |
+| 🧠 **Brain Tumor Segmentation** | MRI tumor detection and segmentation pipeline combining YOLOv11 bounding-box detection with SAM2 mask generation | `Python` `YOLOv11` `SAM2` `OpenCV` |
+| 🔍 **Agentic RAG Research Assistant** | Multi-agent RAG pipeline with persistent ChromaDB vector memory over 10K+ documents; LangGraph query routing with sub-3s retrieval latency | `LangChain` `LangGraph` `ChromaDB` `OpenAI` |
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Experience
 
-<div align="center">
+| Role | Organisation | Period |
+|------|-------------|--------|
+| Agentic AI Intern | AIM Lab, Islamabad | Jun – Aug 2025 |
+| AI & ML Intern | Arch Technologies, Islamabad | Jun – Jul 2025 |
+| AI & Data Engineering Consultant | Freelance (Remote) | Jan – Apr 2026 |
+| Head of Development | Data Science Society, FAST-NUCES | Aug 2025 – Present |
 
-<!-- Overall stats — live from GitHub API -->
-<img src="https://github-readme-stats.vercel.app/api?username=Shahoud867&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" height="165" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<!-- Top languages — live language breakdown across all public repos -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahoud867&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=jupyter%20notebook,html" height="165" alt="Top Languages"/>
+---
 
-</div>
+## 🔨 Currently Building
 
-<div align="center">
+| Status | Project |
+|--------|---------|
+| 🟢 Active | PSX Investment Agent — live rebalancing with multi-agent LangGraph orchestration |
+| 🟢 Active | NLP Financial Pipeline — parallelization on top of serial baseline (~843s) |
+| 🔵 Research | CART architecture benchmarking for nuclei segmentation on whole-slide images |
 
-<!-- Contribution streak — live from GitHub contribution graph -->
-<img src="https://streak-stats.demolab.com?user=Shahoud867&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+---
 
-</div>
+## 📖 Currently Learning
 
-<div align="center">
-
-<!-- Contribution activity graph — live heatmap of commits over last year -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahoud867&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-
-</div>
-
-<div align="center">
-
-<!-- Trophies — live earned badges based on public repo activity -->
-<img src="https://github-profile-trophy.vercel.app/?username=Shahoud867&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies"/>
-
-</div>
-
-> 💡 **To include private repo commits in stats:** Go to [GitHub Settings → Contributions](https://github.com/settings/profile) → enable **"Show private contributions on my profile"**
-
+- **Advanced LangGraph patterns** — stateful agents with human-in-the-loop checkpointing
+- **Parallel & distributed ML** — multiprocessing, async pipelines, per-stage profiling
+- **Production MLOps** — experiment tracking, model versioning, reproducible pipelines
 
 ---
 
 ## 🎓 Certifications
 
-<details>
-<summary><b>View Certifications</b></summary>
-
-<br/>
-
-| Certification | Issuer | Date |
+| Certification | Issuer | Year |
 |---|---|---|
-| AI Agents and Agentic AI in Python Specialization | Vanderbilt University / Coursera | Jul 2025 |
-| Generative AI for Data Scientists Specialization | IBM / Coursera | Dec 2025 |
-| Google Prompting Essentials | Google / Coursera | Jun 2025 |
-| Developing AI Applications with Python and Flask | IBM / Coursera | Jun 2025 |
-
-</details>
+| AI Agents and Agentic AI in Python Specialization | Vanderbilt University / Coursera | 2025 |
+| Generative AI for Data Scientists Specialization | IBM / Coursera | 2025 |
+| Google Prompting Essentials | Google / Coursera | 2025 |
+| Developing AI Applications with Python and Flask | IBM / Coursera | 2025 |
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <div align="center">
 
@@ -154,5 +130,5 @@ Currently deepening my work in **LangGraph agent architectures** and **parallel 
 ---
 
 <div align="center">
-  <sub>⚡ Always building. Open to internships, research collaborations, and freelance AI/ML projects.</sub>
+  <sub>Open to internships, research collaborations, and freelance AI/ML projects.</sub>
 </div>
