@@ -89,17 +89,37 @@ Currently deepening my work in **LangGraph agent architectures** and **parallel 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shahoud867&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
+<!-- Overall stats — live from GitHub API -->
+<img src="https://github-readme-stats.vercel.app/api?username=Shahoud867&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" height="165" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahoud867&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=jupyter%20notebook" height="170" alt="Top Languages"/>
+<!-- Top languages — live language breakdown across all public repos -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahoud867&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=jupyter%20notebook,html" height="165" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Shahoud867&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+<!-- Contribution streak — live from GitHub contribution graph -->
+<img src="https://streak-stats.demolab.com?user=Shahoud867&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
+
+<div align="center">
+
+<!-- Contribution activity graph — live heatmap of commits over last year -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahoud867&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+
+</div>
+
+<div align="center">
+
+<!-- Trophies — live earned badges based on public repo activity -->
+<img src="https://github-profile-trophy.vercel.app/?username=Shahoud867&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies"/>
+
+</div>
+
+> 💡 **To include private repo commits in stats:** Go to [GitHub Settings → Contributions](https://github.com/settings/profile) → enable **"Show private contributions on my profile"**
+
 
 ---
 
