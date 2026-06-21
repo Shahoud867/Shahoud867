@@ -73,7 +73,6 @@ Currently deepening expertise in **LangGraph agent architectures** and **paralle
 | 📈 **maor-equity — NLP Financial Pipeline** | 5-stage equity analysis pipeline combining FinBERT sentiment and Phi-3-mini map-reduce summarization; serial baseline benchmarked at ~843s median latency | `Python` `FinBERT` `Phi-3-mini` `HuggingFace` |
 | 🧬 **CNN–Transformer Nuclei Segmentation** | Extended CellViT on PanNuke (~190K nuclei, 19 tissue types); improved mPQ from 7.32% to 14.22% (+94%); validated on MoNuSeg with 83.24% Binary Dice | `PyTorch` `CellViT` `ViT-256` `AMP` |
 | 🧠 **Brain Tumor Segmentation** | MRI tumor detection and segmentation pipeline combining YOLOv11 bounding-box detection with SAM2 mask generation | `Python` `YOLOv11` `SAM2` `OpenCV` |
-| 🔍 **Agentic RAG Research Assistant** | Multi-agent RAG pipeline with persistent ChromaDB vector memory over 10K+ documents; LangGraph query routing with sub-3s retrieval latency | `LangChain` `LangGraph` `ChromaDB` `OpenAI` |
 
 ---
 
@@ -85,16 +84,6 @@ Currently deepening expertise in **LangGraph agent architectures** and **paralle
 | AI & ML Intern | Arch Technologies, Islamabad | Jun – Jul 2025 |
 | AI & Data Engineering Consultant | Freelance (Remote) | Jan – Apr 2026 |
 | Head of Development | Data Science Society, FAST-NUCES | Aug 2025 – Present |
-
----
-
-## 🔨 Currently Building
-
-| Status | Project |
-|--------|---------|
-| 🟢 Active | PSX Investment Agent — live rebalancing with multi-agent LangGraph orchestration |
-| 🟢 Active | NLP Financial Pipeline — parallelization on top of serial baseline (~843s) |
-| 🔵 Research | CART architecture benchmarking for nuclei segmentation on whole-slide images |
 
 ---
 
@@ -117,7 +106,23 @@ Currently deepening expertise in **LangGraph agent architectures** and **paralle
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/Shahoud867/Shahoud867/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/Shahoud867/Shahoud867/output/github-snake.svg" />
+    <img alt="Contribution Snake Animation"
+         src="https://raw.githubusercontent.com/Shahoud867/Shahoud867/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
 ## 🤝 Connect
+
 
 <div align="center">
 
