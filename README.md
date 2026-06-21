@@ -6,14 +6,14 @@
 
 <!-- Typing animation header -->
 <a href="https://github.com/Shahoud867">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=7C91F7&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Shahoud+Shahid+%F0%9F%91%8B;Agentic+AI+%26+Data+Science+Engineer;Multi-Agent+Systems+%7C+LLMs+%7C+PyTorch;Building+AI+that+doesn't+just+predict+—+acts." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=7C91F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shahoud+Shahid;Agentic+AI+%26+Data+Science+Engineer;Multi-Agent+Systems+%7C+LLMs+%7C+PyTorch;Building+AI+that+thinks+and+acts." alt="Typing SVG" />
 </a>
 
 <br/>
 
 **B.S. Data Science @ FAST-NUCES Islamabad &nbsp;·&nbsp; Islamabad, Pakistan**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahoudshahid-502510281)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahoud-shahid-502510281)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shahoudshahid652@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shahoud867)
 [![Profile Views](https://komarev.com/ghpvc/?username=Shahoud867&style=flat-square&color=7C91F7&label=Profile+Views)](https://github.com/Shahoud867)
@@ -77,9 +77,11 @@ Currently deepening my work in **LangGraph agent architectures** and **parallel 
 
 | Project | What It Solves | Core Stack |
 |---------|---------------|------------|
-| 🤖 [**PSX Autonomous Investment Platform**] | Real-time stock analysis, portfolio monitoring, and autonomous rebalancing for the Pakistan Stock Exchange — powered by a multi-agent LLM architecture with risk metrics (Sharpe, Drawdown, Beta) | `Python` `LangGraph` `LLMs` `Multi-Agent` |
-| 📈 [**maor-equity — NLP Financial Pipeline**]([https://github.com/Shahoud867/](https://github.com/Shahoud867/maor-equity) | 5-stage equity analysis pipeline combining FinBERT sentiment scoring and Phi-3-mini map-reduce summarization across SEC filings; benchmarked serial runtime (~843s) to drive parallelization strategy | `Python` `FinBERT` `Phi-3-mini` `HuggingFace` |
-| 🧬 [**CNN–Transformer Nuclei Segmentation**](https://github.com/MuhammadNoor7/CNN-Transformer-Nuclei-Segmentation)| Extended CellViT on PanNuke (~190K nuclei, 19 tissue types); improved mean Panoptic Quality 7.32% → 14.22% (+94%) via backbone fine-tuning & AMP; 83.24% Binary Dice on unseen MoNuSeg dataset | `PyTorch` `CellViT` `ViT-256` `AMP` |
+| 🤖 [**PSX Autonomous Investment Platform**](https://github.com/Shahoud867/<!-- REPLACE: repo-name -->) | Real-time stock analysis, portfolio monitoring, and autonomous rebalancing for the Pakistan Stock Exchange — powered by a multi-agent LLM architecture with risk metrics (Sharpe, Drawdown, Beta) | `Python` `LangGraph` `LLMs` `Multi-Agent` |
+| 📈 [**maor-equity — NLP Financial Pipeline**](https://github.com/Shahoud867/<!-- REPLACE: repo-name -->) | 5-stage equity analysis pipeline combining FinBERT sentiment scoring and Phi-3-mini map-reduce summarization across SEC filings; benchmarked serial runtime (~843s) to drive parallelization strategy | `Python` `FinBERT` `Phi-3-mini` `HuggingFace` |
+| 🧬 [**CNN–Transformer Nuclei Segmentation**](https://github.com/Shahoud867/<!-- REPLACE: repo-name -->) | Extended CellViT on PanNuke (~190K nuclei, 19 tissue types); improved mean Panoptic Quality 7.32% → 14.22% (+94%) via backbone fine-tuning & AMP; 83.24% Binary Dice on unseen MoNuSeg dataset | `PyTorch` `CellViT` `ViT-256` `AMP` |
+| 🧠 [**Brain Tumor Segmentation (YOLOv11 + SAM2)**](https://github.com/Shahoud867/<!-- REPLACE: repo-name -->) | Tumor detection and segmentation pipeline on medical MRI images combining YOLOv11 bounding-box detection with SAM2 for precise mask generation | `Python` `YOLOv11` `SAM2` `OpenCV` |
+| 🔍 [**Agentic RAG Research Assistant**](https://github.com/Shahoud867/<!-- REPLACE: repo-name -->) | Multi-agent RAG pipeline with persistent vector memory over 10K+ documents; LangGraph orchestration for adaptive query routing achieving sub-3s retrieval latency | `LangChain` `LangGraph` `ChromaDB` `OpenAI` |
 
 ---
 
@@ -123,7 +125,7 @@ Currently deepening my work in **LangGraph agent architectures** and **parallel 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahoudshahid-502510281)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahoud-shahid-502510281)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahoudshahid652@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shahoud867)
 
