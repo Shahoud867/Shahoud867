@@ -36,7 +36,7 @@ ROLE     =  Agentic AI & Data Science Engineer
 EXP      =  2 AI-firm internships + freelance data engineering
 DOMAIN   =  Multi-Agent Systems | NLP/LLMs | Data Engineering | Deep Learning
 STACK    =  LangChain/LangGraph | PyTorch | BigQuery | React | Django
-OPEN_TO  =  Internships · Research Collaborations · Freelance AI/ML Work
+OPEN_TO  =  Job Opportunities · Research Collaborations · Freelance AI/ML Work
 ```
 
 <br/>
@@ -271,7 +271,7 @@ building:
   - cardiorisk              # containerized, SHAP-explained cardiac risk ML toolkit
 
 open_to:
-  - Internships in Agentic AI / applied ML / data engineering
+  - Job opportunities in Agentic AI / applied ML / data engineering
   - Research collaborations in NLP, LLMs, or multi-agent systems
   - Freelance AI/ML and data pipeline work
 ```
@@ -286,7 +286,7 @@ open_to:
 [![Email](https://img.shields.io/badge/Email-Reach_Out-CAFF3C?style=for-the-badge&logo=gmail&logoColor=0A0F08&labelColor=060D08)](mailto:shahoudshahid652@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-CAFF3C?style=for-the-badge&logo=github&logoColor=0A0F08&labelColor=060D08)](https://github.com/Shahoud867)
 
-<sub>Open to internships, research collaborations, and freelance AI/ML projects.</sub>
+<sub>Open to job opportunities, research collaborations, and freelance AI/ML projects.</sub>
 
 </div>
 
