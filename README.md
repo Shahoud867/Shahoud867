@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&text=%3E_%20Shahoud%20Shahid&fontSize=38&desc=Agentic%20AI%20%26%20Data%20Science%20Engineer&descColor=8AFF57&descAlignY=62&fontAlignY=35&animation=fadeIn" />
+<img width="100%" src="https://raw.githubusercontent.com/Shahoud867/Shahoud867/main/assets/hero.svg" />
 
 <a href="https://github.com/Shahoud867">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Shahoud+Shahid;%24+role+%E2%86%92+Agentic+AI+%26+Data+Science+Engineer;%24+stack+%E2%86%92+LangChain+%7C+LangGraph+%7C+PyTorch+%7C+BigQuery;%24+status+%E2%86%92+Building+autonomous+multi-agent+systems" alt="Typing SVG" />
