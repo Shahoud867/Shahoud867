@@ -1,134 +1,309 @@
-<!-- Shahoud867 — GitHub Profile README -->
+<!-- Shahoud867 — GitHub Profile README | Palette: Signal (BG 0B0F14 · Cyan 22D3EE · Amber FBBF24) -->
 
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0B0F14&fontColor=22D3EE&text=%3E_%20Shahoud%20Shahid&fontSize=38&desc=Agentic%20AI%20%26%20Data%20Science%20Engineer&descColor=FBBF24&descAlignY=62&fontAlignY=35&animation=fadeIn" />
+
 <a href="https://github.com/Shahoud867">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=7C91F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shahoud+Shahid;Agentic+AI+%26+Data+Science+Engineer;Multi-Agent+Systems+%7C+LLMs+%7C+PyTorch;Building+AI+that+thinks+and+acts." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Shahoud+Shahid;%24+role+%E2%86%92+Agentic+AI+%26+Data+Science+Engineer;%24+stack+%E2%86%92+LangChain+%7C+LangGraph+%7C+PyTorch+%7C+BigQuery;%24+status+%E2%86%92+Building+autonomous+multi-agent+systems" alt="Typing SVG" />
 </a>
 
 <br/>
 
-**B.S. Data Science @ FAST-NUCES Islamabad &nbsp;·&nbsp; Islamabad, Pakistan**
+[![B.S. Data Science](https://img.shields.io/badge/🎓_B.S.-Data_Science-0B0F14?style=flat-square&labelColor=060A0D&color=22D3EE)](https://github.com/Shahoud867)
+[![FAST-NUCES](https://img.shields.io/badge/🏫-FAST--NUCES_Islamabad-0B0F14?style=flat-square&labelColor=060A0D&color=22D3EE)](https://github.com/Shahoud867)
+[![Location](https://img.shields.io/badge/📍-Islamabad,_Pakistan-0B0F14?style=flat-square&labelColor=060A0D&color=22D3EE)](https://github.com/Shahoud867)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahoud-shahid-502510281)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=shahoudshahid652@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shahoud867)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-22D3EE?style=for-the-badge&logo=linkedin&logoColor=0B0F14&labelColor=060A0D)](https://www.linkedin.com/in/shahoud-shahid-502510281)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-22D3EE?style=for-the-badge&logo=gmail&logoColor=0B0F14&labelColor=060A0D)](mailto:shahoudshahid652@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-22D3EE?style=for-the-badge&logo=github&logoColor=0B0F14&labelColor=060A0D)](https://github.com/Shahoud867)
+
+<img src="https://komarev.com/ghpvc/?username=Shahoud867&label=Profile+Views&color=22D3EE&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Shahoud867?label=Followers&style=flat-square&color=22D3EE&labelColor=060A0D" alt="Followers" />
 
 </div>
 
----
+<br/>
 
-## 👤 About Me
+## `> whoami`
 
-I'm a Data Science undergraduate building **production-grade agentic AI systems, NLP pipelines, and data engineering infrastructure** — delivered across internships, freelance engagements, and research projects.
+Data Science undergraduate at **FAST-NUCES Islamabad** building production-grade **agentic AI, NLP, and data engineering systems** — shipped across two AI-firm internships, freelance enterprise engagements, and from-scratch ML research. I focus on systems where AI moves past prediction into autonomous decision-making: multi-agent LLM orchestration, real-time ETL automation, and hand-built NLP architectures.
 
-My focus is on systems where AI moves beyond prediction into **autonomous decision-making**: multi-agent LLM orchestration, portfolio rebalancing agents, real-time ETL automation, and medical image segmentation. I've shipped end-to-end pipelines for enterprise marketing-tech and healthcare clients, and led the engineering team at FAST-NUCES Data Science Society.
+```bash
+$ cat .profile
 
-Currently deepening expertise in **LangGraph agent architectures** and **parallel computing optimizations** for large-scale ML pipelines.
+ROLE     =  Agentic AI & Data Science Engineer
+EXP      =  2 AI-firm internships + freelance data engineering
+DOMAIN   =  Multi-Agent Systems | NLP/LLMs | Data Engineering | Deep Learning
+STACK    =  LangChain/LangGraph | PyTorch | BigQuery | React | Django
+OPEN_TO  =  Internships · Research Collaborations · Freelance AI/ML Work
+```
 
----
+<br/>
 
-## 🛠 Tech Stack
+## `> ls tech-stack/`
 
-**Languages**
+**Languages & Core**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=py,r,js,ts,html,css&theme=dark" />
 
-**AI · ML · LLMs**
+**AI · ML · Deep Learning**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-7C91F7?style=for-the-badge&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,docker,postgres,mysql&theme=dark" />
 
-**Data Engineering · Cloud**
+**Web · Cloud · Tools**
 
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<img src="https://skillicons.dev/icons?i=django,react,nodejs,flask,git,gcp&theme=dark" />
 
-**Web · Full-Stack · Tools**
+**Agentic AI & LLM Specialty**
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+[![LangChain](https://img.shields.io/badge/LangChain-22D3EE?style=for-the-badge&logoColor=0B0F14&labelColor=060A0D)](https://github.com/Shahoud867)
+[![LangGraph](https://img.shields.io/badge/LangGraph-22D3EE?style=for-the-badge&logoColor=0B0F14&labelColor=060A0D)](https://github.com/Shahoud867)
+[![OpenAI API](https://img.shields.io/badge/OpenAI_API-22D3EE?style=for-the-badge&logo=openai&logoColor=0B0F14&labelColor=060A0D)](https://github.com/Shahoud867)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-22D3EE?style=for-the-badge&logo=huggingface&logoColor=0B0F14&labelColor=060A0D)](https://github.com/Shahoud867)
+[![RAG](https://img.shields.io/badge/RAG-22D3EE?style=for-the-badge&logoColor=0B0F14&labelColor=060A0D)](https://github.com/Shahoud867)
+[![BigQuery](https://img.shields.io/badge/BigQuery-22D3EE?style=for-the-badge&logo=googlebigquery&logoColor=0B0F14&labelColor=060A0D)](https://github.com/Shahoud867)
 
----
+<br/>
 
-## 🚀 Featured Projects
+## `> cat domain-expertise.md`
 
-| Project | What It Solves | Stack |
-|---------|----------------|-------|
-| 🤖 **PSX Autonomous Investment Platform** | Real-time PSX stock analysis, portfolio monitoring, and autonomous rebalancing using a multi-agent LLM architecture with risk metrics (Sharpe, Drawdown, Beta) | `Python` `LangGraph` `LLMs` |
-| 📈 **maor-equity — NLP Financial Pipeline** | 5-stage equity analysis pipeline combining FinBERT sentiment and Phi-3-mini map-reduce summarization; serial baseline benchmarked at ~843s median latency | `Python` `FinBERT` `Phi-3-mini` `HuggingFace` |
-| 🧬 **CNN–Transformer Nuclei Segmentation** | Extended CellViT on PanNuke (~190K nuclei, 19 tissue types); improved mPQ from 7.32% to 14.22% (+94%); validated on MoNuSeg with 83.24% Binary Dice | `PyTorch` `CellViT` `ViT-256` `AMP` |
-| 🧠 **Brain Tumor Segmentation** | MRI tumor detection and segmentation pipeline combining YOLOv11 bounding-box detection with SAM2 mask generation | `Python` `YOLOv11` `SAM2` `OpenCV` |
+| Domain | Depth | Details |
+| :-- | :-- | :-- |
+| **Agentic AI & Multi-Agent Systems** | ●●●●● | LangChain/LangGraph orchestration, autonomous decision pipelines, human-in-the-loop checkpointing |
+| **NLP & LLMs** | ●●●●● | Transformers, RAG, FinBERT, hand-built attention primitives, sentiment/NER, from-scratch language modeling |
+| **Deep Learning & Computer Vision** | ●●●●○ | PyTorch, CNNs/RNNs/ViTs, OpenCV, medical-imaging segmentation |
+| **Data Engineering & ETL** | ●●●●○ | BigQuery, Meta Ads/CM360/SA360 pipelines, advanced SQL, Pandas, GCP |
+| **Full-Stack Development** | ●●●○○ | Django, React, Node.js, React Native, Supabase, MySQL |
 
----
+<br/>
 
-## 💼 Experience
+## `> ls -la projects/ --featured`
 
-| Role | Organisation | Period |
-|------|-------------|--------|
-| Agentic AI Intern | AIM Lab, Islamabad | Jun – Aug 2025 |
-| AI & ML Intern | Arch Technologies, Islamabad | Jun – Jul 2025 |
-| AI & Data Engineering Consultant | Freelance (Remote) | Jan – Apr 2026 |
-| Head of Development | Data Science Society, FAST-NUCES | Aug 2025 – Present |
+<details open>
+<summary><b>&#9654; Agent Time Machine &mdash; Time-Travel Debugging for AI Agents</b></summary>
 
----
+Stop re-running failed agents from scratch. Branch from any step of a LangGraph or AutoGen trace, edit the state, and resume live.
 
-## 📖 Currently Learning
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Python (FastAPI) &middot; TypeScript &middot; React |
+| **What it does** | Records full agent execution traces, then lets you fork from any recorded step, mutate state, and resume the run through a web UI |
+| **Impact** | Removes the need to re-run an entire agent trace from step 0 just to debug one bad decision midway through |
+| **Repo** | [View](https://github.com/Shahoud867/agent-time-machine) |
 
-- **Advanced LangGraph patterns** — stateful agents with human-in-the-loop checkpointing
-- **Parallel & distributed ML** — multiprocessing, async pipelines, per-stage profiling
-- **Production MLOps** — experiment tracking, model versioning, reproducible pipelines
+</details>
 
----
+<details>
+<summary><b>&#9654; review-rag-pipeline &mdash; Transformers Built From Scratch</b></summary>
 
-## 🎓 Certifications
+Understand why a review says what it says. A from-scratch Transformer encoder/decoder pipeline with retrieval-augmented generation.
 
-| Certification | Issuer | Year |
-|---|---|---|
-| AI Agents and Agentic AI in Python Specialization | Vanderbilt University / Coursera | 2025 |
-| Generative AI for Data Scientists Specialization | IBM / Coursera | 2025 |
-| Google Prompting Essentials | Google / Coursera | 2025 |
-| Developing AI Applications with Python and Flask | IBM / Coursera | 2025 |
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Python &middot; PyTorch &middot; Jupyter &middot; Docker |
+| **What it does** | Classifies product-review sentiment, retrieves similar reviews via a learned embedding index, and generates grounded natural-language explanations |
+| **Impact** | Every attention primitive is hand-implemented — no `nn.Transformer` |
+| **Repo** | [View](https://github.com/Shahoud867/review-rag-pipeline) |
 
----
+</details>
 
+<details>
+<summary><b>&#9654; cardiorisk &mdash; Production ML for Cardiac Risk</b></summary>
 
-## ⚡ Recent Activity
+Production-grade ML toolkit for cardiac risk prediction, served through a validated risk-assessment app.
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Python &middot; scikit-learn/XGBoost &middot; Streamlit &middot; Docker |
+| **What it does** | Clustering, ensemble methods (Random Forest, XGBoost), and neural networks on the UCI Cleveland Heart Disease dataset, with SHAP explanations for every prediction |
+| **Impact** | Clean architecture, tested, containerized, CI/CD-ready |
+| **Repo** | [View](https://github.com/Shahoud867/cardiorisk) |
 
----
+</details>
 
-## 🤝 Connect
+<details>
+<summary><b>&#9654; Agentic Trading Advisor &mdash; Multi-Agent PSX Investment Platform</b></summary>
 
+A full-stack AI investment platform for the Pakistan Stock Exchange.
 
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Python/Flask &middot; React/TypeScript &middot; MySQL &middot; LangGraph |
+| **What it does** | 10 specialized AI agents automate real-time market scraping, NLP sentiment analysis, and technical indicators to deliver personalized portfolio strategies |
+| **Impact** | Built for scale across a full agentic backend and React frontend |
+| **Repo** | [View](https://github.com/Shahoud867/agentic-trading-advisor) |
 
+</details>
+
+<details>
+<summary><b>&#9654; UrduNewsLM &mdash; Statistical Language Modeling for Urdu</b></summary>
+
+A from-scratch statistical language modeling pipeline for Urdu news text — no external NLP libraries.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Pure Python |
+| **What it does** | Custom normalization, tokenization, stemming, and lemmatization; n-gram models with Laplace smoothing and Jelinek-Mercer interpolation; constrained headline/article generation with greedy, temperature, top-k, and nucleus sampling |
+| **Impact** | Built entirely without spaCy, NLTK, or any pretrained tokenizer |
+| **Repo** | [View](https://github.com/Shahoud867/UrduNewsLM) |
+
+</details>
+
+<details>
+<summary><b>&#9654; Health Garden &mdash; Pakistani-Native Habit & Health App</b></summary>
+
+A health app pairing local-unit food/workout tracking with a permanent, non-punitive "garden" that grows as habits stick.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | React Native &middot; TypeScript &middot; Supabase (PLpgSQL) |
+| **What it does** | Condition-aware (diabetes/PCOS/joint-safe) tracking, offline-first, bilingual Urdu/English, with a cost-capped AI coach on premium plans |
+| **Impact** | Full mobile app: local-first data model synced to a Postgres backend |
+| **Repo** | [View](https://github.com/Shahoud867/health-garden-app) |
+
+</details>
+
+<br/>
+
+## `> cat impact.log`
+
+| Metric | Context |
+| :-- | :-- |
+| **~60%** reduction in manual processing time | Multi-agent reasoning pipelines automating 3 core decision workflows — AIM Lab |
+| **2 days → <4 hrs** stakeholder review turnaround | Real-time web-scraping modules + React dashboards — AIM Lab |
+| **88–92%** test-set accuracy | CNN/RNN models across 3 task domains — Arch Technologies |
+| **~35%** faster training convergence | OpenCV preprocessing pipelines — Arch Technologies |
+| **~12 hrs/week** manual reporting eliminated | Production ETL pipelines (CM360, SA360, Meta Ads → BigQuery) — Freelance |
+| **~91%** accuracy | NLP-based NER system on 1,000+ patient records — Freelance |
+
+<br/>
+
+## `> tail -f experience.log`
+
+**AI and Data Engineering Consultant** · Freelance (Remote) · `Jan 2026 – Apr 2026`
+- Delivered production ETL pipelines for Google CM360, SA360, and Meta Ads API for 3 enterprise clients, automating millions of rows into BigQuery
+- Designed real-time BigQuery integrations for SleekFlow (CRM) and Tatango (SMS)
+- Built an NLP-based NER system for a HIMS processing 1,000+ patient records at ~91% accuracy
+`BigQuery` `ETL` `NLP` `NER` `SQL`
+
+**Head of Development, Data Science Society** · FAST-NUCES · `Aug 2025 – Present`
+- Lead a 6-member dev team delivering 4+ web platforms and AI showcases per semester
+- Mentor junior members in Python, Django, and ML best practices
+`Leadership` `Django` `Python` `Mentoring`
+
+**Agentic AI Intern** · AIM Lab · `Jun 2025 – Aug 2025`
+- Architected multi-agent reasoning pipelines using LangChain and LangGraph, automating 3 core decision workflows
+- Engineered real-time web-scraping modules feeding live data into agentic systems; built React.js dashboards
+`LangChain` `LangGraph` `Multi-Agent` `React`
+
+**AI and ML Intern** · Arch Technologies · `Jun 2025 – Jul 2025`
+- Trained CNN and RNN models in PyTorch across 3 task domains achieving 88–92% test-set accuracy
+- Built OpenCV preprocessing pipelines improving training convergence speed
+`PyTorch` `CNN` `RNN` `OpenCV`
+
+<br/>
+
+## `> cat education.yaml`
+
+[![Education](https://img.shields.io/badge/B.S._Data_Science-FAST--NUCES_Islamabad-0B0F14?style=for-the-badge&color=22D3EE&labelColor=060A0D)](https://github.com/Shahoud867)
+
+**Aug 2023 – Aug 2027** · Coursework: Parallel & Distributed Computing, Deep Learning, NLP, Data Mining, AI, DBMS, Advanced Statistics
+
+**Certifications**
+
+| Certification | Issuer | Date |
+| :-- | :-- | :-- |
+| AI Agents and Agentic AI in Python Specialization | Vanderbilt University / Coursera | Jul 2025 |
+| Generative AI for Data Scientists Specialization | IBM / Coursera | Dec 2025 |
+| Google Prompting Essentials Specialization | Google / Coursera | Jun 2025 |
+| Developing AI Applications with Python and Flask | IBM / Coursera | Jun 2025 |
+
+<br/>
+
+## `> github stats --live`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahoud-shahid-502510281)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=shahoudshahid652@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shahoud867)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shahoud867&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=FBBF24&text_color=E6EDF3&bg_color=0B0F14&ring_color=22D3EE" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahoud867&hide_border=true&background=0B0F14&stroke=22D3EE&ring=22D3EE&fire=FBBF24&currStreakLabel=22D3EE&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B98A5" />
 
 </div>
-
----
 
 <div align="center">
-  <sub>Open to internships, research collaborations, and freelance AI/ML projects.</sub>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahoud867&layout=compact&hide_border=true&title_color=22D3EE&text_color=E6EDF3&bg_color=0B0F14&langs_count=8" />
+
 </div>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shahoud867&bg_color=0B0F14&color=22D3EE&line=22D3EE&point=FBBF24&area=true&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Shahoud867&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
+
+</div>
+
+<br/>
+
+## `> cat contribution-summary.md`
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahoud867&theme=2077" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shahoud867&theme=2077" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shahoud867&theme=2077" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shahoud867&theme=2077" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shahoud867&theme=2077&utcOffset=5" />
+
+</div>
+
+<br/>
+
+## `> ./snake.sh`
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Shahoud867/Shahoud867/output/github-snake-dark.svg" width="100%" />
+</div>
+
+<br/>
+
+## `> cat current-focus.yaml`
+
+```yaml
+learning:
+  - Advanced LangGraph patterns — stateful agents with human-in-the-loop checkpointing
+  - Parallel & distributed ML — multiprocessing, async pipelines, per-stage profiling
+
+building:
+  - Agent Time Machine     # branch/edit/resume debugger for LangGraph & AutoGen traces
+  - cardiorisk              # containerized, SHAP-explained cardiac risk ML toolkit
+
+open_to:
+  - Internships in Agentic AI / applied ML / data engineering
+  - Research collaborations in NLP, LLMs, or multi-agent systems
+  - Freelance AI/ML and data pipeline work
+```
+
+<br/>
+
+## `> ./connect.sh`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-22D3EE?style=for-the-badge&logo=linkedin&logoColor=0B0F14&labelColor=060A0D)](https://www.linkedin.com/in/shahoud-shahid-502510281)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-22D3EE?style=for-the-badge&logo=gmail&logoColor=0B0F14&labelColor=060A0D)](mailto:shahoudshahid652@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-22D3EE?style=for-the-badge&logo=github&logoColor=0B0F14&labelColor=060A0D)](https://github.com/Shahoud867)
+
+<sub>Open to internships, research collaborations, and freelance AI/ML projects.</sub>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0B0F14&fontColor=22D3EE&height=100&section=footer&animation=fadeIn" />
