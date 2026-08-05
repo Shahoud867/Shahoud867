@@ -1,25 +1,25 @@
-<!-- Shahoud867 — GitHub Profile README | Palette: Signal (BG 0B0F14 · Cyan 22D3EE · Amber FBBF24) -->
+<!-- Shahoud867 — GitHub Profile README | Palette: Terminal Hacker (0A0F08 · 0F1A0B · 1A2B1A · CAFF3C · 8AFF57 · E8F5E1) -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0B0F14&fontColor=22D3EE&text=%3E_%20Shahoud%20Shahid&fontSize=38&desc=Agentic%20AI%20%26%20Data%20Science%20Engineer&descColor=FBBF24&descAlignY=62&fontAlignY=35&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&text=%3E_%20Shahoud%20Shahid&fontSize=38&desc=Agentic%20AI%20%26%20Data%20Science%20Engineer&descColor=8AFF57&descAlignY=62&fontAlignY=35&animation=fadeIn" />
 
 <a href="https://github.com/Shahoud867">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Shahoud+Shahid;%24+role+%E2%86%92+Agentic+AI+%26+Data+Science+Engineer;%24+stack+%E2%86%92+LangChain+%7C+LangGraph+%7C+PyTorch+%7C+BigQuery;%24+status+%E2%86%92+Building+autonomous+multi-agent+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Shahoud+Shahid;%24+role+%E2%86%92+Agentic+AI+%26+Data+Science+Engineer;%24+stack+%E2%86%92+LangChain+%7C+LangGraph+%7C+PyTorch+%7C+BigQuery;%24+status+%E2%86%92+Building+autonomous+multi-agent+systems" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![B.S. Data Science](https://img.shields.io/badge/🎓_B.S.-Data_Science-0B0F14?style=flat-square&labelColor=060A0D&color=22D3EE)](https://github.com/Shahoud867)
-[![FAST-NUCES](https://img.shields.io/badge/🏫-FAST--NUCES_Islamabad-0B0F14?style=flat-square&labelColor=060A0D&color=22D3EE)](https://github.com/Shahoud867)
-[![Location](https://img.shields.io/badge/📍-Islamabad,_Pakistan-0B0F14?style=flat-square&labelColor=060A0D&color=22D3EE)](https://github.com/Shahoud867)
+[![B.S. Data Science](https://img.shields.io/badge/🎓_B.S.-Data_Science-0A0F08?style=flat-square&labelColor=060D08&color=CAFF3C)](https://github.com/Shahoud867)
+[![FAST-NUCES](https://img.shields.io/badge/🏫-FAST--NUCES_Islamabad-0A0F08?style=flat-square&labelColor=060D08&color=CAFF3C)](https://github.com/Shahoud867)
+[![Location](https://img.shields.io/badge/📍-Islamabad,_Pakistan-0A0F08?style=flat-square&labelColor=060D08&color=CAFF3C)](https://github.com/Shahoud867)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-22D3EE?style=for-the-badge&logo=linkedin&logoColor=0B0F14&labelColor=060A0D)](https://www.linkedin.com/in/shahoud-shahid-502510281)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-22D3EE?style=for-the-badge&logo=gmail&logoColor=0B0F14&labelColor=060A0D)](mailto:shahoudshahid652@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-22D3EE?style=for-the-badge&logo=github&logoColor=0B0F14&labelColor=060A0D)](https://github.com/Shahoud867)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=0A0F08&labelColor=060D08)](https://www.linkedin.com/in/shahoud-shahid-502510281)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-CAFF3C?style=for-the-badge&logo=gmail&logoColor=0A0F08&labelColor=060D08)](mailto:shahoudshahid652@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-CAFF3C?style=for-the-badge&logo=github&logoColor=0A0F08&labelColor=060D08)](https://github.com/Shahoud867)
 
-<img src="https://komarev.com/ghpvc/?username=Shahoud867&label=Profile+Views&color=22D3EE&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Shahoud867?label=Followers&style=flat-square&color=22D3EE&labelColor=060A0D" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=Shahoud867&label=Profile+Views&color=CAFF3C&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Shahoud867?label=Followers&style=flat-square&color=CAFF3C&labelColor=060D08" alt="Followers" />
 
 </div>
 
@@ -57,12 +57,12 @@ OPEN_TO  =  Internships · Research Collaborations · Freelance AI/ML Work
 
 **Agentic AI & LLM Specialty**
 
-[![LangChain](https://img.shields.io/badge/LangChain-22D3EE?style=for-the-badge&logoColor=0B0F14&labelColor=060A0D)](https://github.com/Shahoud867)
-[![LangGraph](https://img.shields.io/badge/LangGraph-22D3EE?style=for-the-badge&logoColor=0B0F14&labelColor=060A0D)](https://github.com/Shahoud867)
-[![OpenAI API](https://img.shields.io/badge/OpenAI_API-22D3EE?style=for-the-badge&logo=openai&logoColor=0B0F14&labelColor=060A0D)](https://github.com/Shahoud867)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-22D3EE?style=for-the-badge&logo=huggingface&logoColor=0B0F14&labelColor=060A0D)](https://github.com/Shahoud867)
-[![RAG](https://img.shields.io/badge/RAG-22D3EE?style=for-the-badge&logoColor=0B0F14&labelColor=060A0D)](https://github.com/Shahoud867)
-[![BigQuery](https://img.shields.io/badge/BigQuery-22D3EE?style=for-the-badge&logo=googlebigquery&logoColor=0B0F14&labelColor=060A0D)](https://github.com/Shahoud867)
+[![LangChain](https://img.shields.io/badge/LangChain-CAFF3C?style=for-the-badge&logoColor=0A0F08&labelColor=060D08)](https://github.com/Shahoud867)
+[![LangGraph](https://img.shields.io/badge/LangGraph-CAFF3C?style=for-the-badge&logoColor=0A0F08&labelColor=060D08)](https://github.com/Shahoud867)
+[![OpenAI API](https://img.shields.io/badge/OpenAI_API-CAFF3C?style=for-the-badge&logo=openai&logoColor=0A0F08&labelColor=060D08)](https://github.com/Shahoud867)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-CAFF3C?style=for-the-badge&logo=huggingface&logoColor=0A0F08&labelColor=060D08)](https://github.com/Shahoud867)
+[![RAG](https://img.shields.io/badge/RAG-CAFF3C?style=for-the-badge&logoColor=0A0F08&labelColor=060D08)](https://github.com/Shahoud867)
+[![BigQuery](https://img.shields.io/badge/BigQuery-CAFF3C?style=for-the-badge&logo=googlebigquery&logoColor=0A0F08&labelColor=060D08)](https://github.com/Shahoud867)
 
 <br/>
 
@@ -206,7 +206,7 @@ A health app pairing local-unit food/workout tracking with a permanent, non-puni
 
 ## `> cat education.yaml`
 
-[![Education](https://img.shields.io/badge/B.S._Data_Science-FAST--NUCES_Islamabad-0B0F14?style=for-the-badge&color=22D3EE&labelColor=060A0D)](https://github.com/Shahoud867)
+[![Education](https://img.shields.io/badge/B.S._Data_Science-FAST--NUCES_Islamabad-0A0F08?style=for-the-badge&color=CAFF3C&labelColor=060D08)](https://github.com/Shahoud867)
 
 **Aug 2023 – Aug 2027** · Coursework: Parallel & Distributed Computing, Deep Learning, NLP, Data Mining, AI, DBMS, Advanced Statistics
 
@@ -225,43 +225,27 @@ A health app pairing local-unit food/workout tracking with a permanent, non-puni
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shahoud867&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=FBBF24&text_color=E6EDF3&bg_color=0B0F14&ring_color=22D3EE" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Shahoud867&show_icons=true&hide_border=false&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08&border_color=1A2B1A" />
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahoud867&hide_border=true&background=0B0F14&stroke=22D3EE&ring=22D3EE&fire=FBBF24&currStreakLabel=22D3EE&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B98A5" />
-
-</div>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahoud867&layout=compact&hide_border=true&title_color=22D3EE&text_color=E6EDF3&bg_color=0B0F14&langs_count=8" />
+<img height="165" src="https://streak-stats.demolab.com/?user=Shahoud867&hide_border=false&border=1A2B1A&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=CAFF3C&currStreakLabel=CAFF3C&sideLabels=E8F5E1&currStreakNum=E8F5E1&sideNums=E8F5E1&dates=6B8F71" />
 
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shahoud867&bg_color=0B0F14&color=22D3EE&line=22D3EE&point=FBBF24&area=true&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=Shahoud867&layout=compact&hide_border=false&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08&border_color=1A2B1A&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Shahoud867&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shahoud867&bg_color=0A0F08&color=CAFF3C&line=CAFF3C&point=8AFF57&area=true&hide_border=true" />
 
 </div>
 
-<br/>
-
-## `> cat contribution-summary.md`
-
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahoud867&theme=2077" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shahoud867&theme=2077" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shahoud867&theme=2077" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shahoud867&theme=2077" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shahoud867&theme=2077&utcOffset=5" />
+<img width="100%" src="https://github-trophies.vercel.app/?username=Shahoud867&theme=matrix&no-frame=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
@@ -298,12 +282,12 @@ open_to:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-22D3EE?style=for-the-badge&logo=linkedin&logoColor=0B0F14&labelColor=060A0D)](https://www.linkedin.com/in/shahoud-shahid-502510281)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-22D3EE?style=for-the-badge&logo=gmail&logoColor=0B0F14&labelColor=060A0D)](mailto:shahoudshahid652@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-22D3EE?style=for-the-badge&logo=github&logoColor=0B0F14&labelColor=060A0D)](https://github.com/Shahoud867)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=0A0F08&labelColor=060D08)](https://www.linkedin.com/in/shahoud-shahid-502510281)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-CAFF3C?style=for-the-badge&logo=gmail&logoColor=0A0F08&labelColor=060D08)](mailto:shahoudshahid652@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-CAFF3C?style=for-the-badge&logo=github&logoColor=0A0F08&labelColor=060D08)](https://github.com/Shahoud867)
 
 <sub>Open to internships, research collaborations, and freelance AI/ML projects.</sub>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0B0F14&fontColor=22D3EE&height=100&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&height=100&section=footer&animation=fadeIn" />
