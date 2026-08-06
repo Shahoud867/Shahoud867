@@ -251,6 +251,13 @@ A health app pairing local-unit food/workout tracking with a permanent, non-puni
 
 <br/>
 
+## `> tail -n 5 recent-activity.log`
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br/>
+
 ## `> ./snake.sh`
 
 <div align="center">
