@@ -254,8 +254,8 @@ A health app pairing local-unit food/workout tracking with a permanent, non-puni
 ## `> tail -n 5 recent-activity.log`
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Shahoud867/health-garden-app/pull/3) in [Shahoud867/health-garden-app](https://github.com/Shahoud867/health-garden-app)
-2. 🎉 Merged PR [#2](https://github.com/Shahoud867/health-garden-app/pull/2) in [Shahoud867/health-garden-app](https://github.com/Shahoud867/health-garden-app)
+1. 💪 Opened PR [#1](https://github.com/Shahoud867/Movie-Community-Management-System/pull/1) in [Shahoud867/Movie-Community-Management-System](https://github.com/Shahoud867/Movie-Community-Management-System)
+2. 🎉 Merged PR [#3](https://github.com/Shahoud867/health-garden-app/pull/3) in [Shahoud867/health-garden-app](https://github.com/Shahoud867/health-garden-app)
 <!--END_SECTION:activity-->
 
 <br/>
