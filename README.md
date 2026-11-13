@@ -254,7 +254,7 @@ A health app pairing local-unit food/workout tracking with a permanent, non-puni
 ## `> tail -n 5 recent-activity.log`
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Shahoud867/Movie-Community-Management-System/pull/1) in [Shahoud867/Movie-Community-Management-System](https://github.com/Shahoud867/Movie-Community-Management-System)
+1. 💪 Opened PR [#12](https://github.com/Shahoud867/Final-Year-Project/pull/12) in [Shahoud867/Final-Year-Project](https://github.com/Shahoud867/Final-Year-Project)
 2. 💪 Opened PR [#1](https://github.com/Shahoud867/Movie-Community-Management-System/pull/1) in [Shahoud867/Movie-Community-Management-System](https://github.com/Shahoud867/Movie-Community-Management-System)
 <!--END_SECTION:activity-->
 
